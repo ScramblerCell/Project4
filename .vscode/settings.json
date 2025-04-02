@@ -5,6 +5,7 @@
         "limits": "cpp",
         "ratio": "cpp",
         "tuple": "cpp",
-        "__memory": "cpp"
+        "__memory": "cpp",
+        "string": "cpp"
     }
 }
